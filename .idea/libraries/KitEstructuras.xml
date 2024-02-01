@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="KitEstructuras">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/KitEstructuras.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
